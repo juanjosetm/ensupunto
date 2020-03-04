@@ -1109,6 +1109,277 @@ section.lazy-placeholder:after {
 .cid-rQvoyXFi2P .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-rShks4gQBo {
+  background-image: url("../../../assets/images/background1.jpg");
+}
+.cid-rShks4gQBo .mbr-section-subtitle {
+  letter-spacing: .2rem;
+}
+.cid-rShks4gQBo .media-container-column {
+  background-color: #4f4943;
+}
+@media (max-width: 767px) {
+  .cid-rShks4gQBo .media-container-column {
+    padding: 1rem !important;
+  }
+}
+.cid-rShkGpl5d9 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rShkGpl5d9 .mbr-slider .carousel-control {
+  background: #1b1b1b;
+}
+.cid-rShkGpl5d9 .mbr-slider .carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-rShkGpl5d9 .mbr-slider .carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.cid-rShkGpl5d9 .mbr-slider .modal-body .close {
+  background: #1b1b1b;
+}
+.cid-rShkGpl5d9 .mbr-gallery-item > div::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: #554346;
+  opacity: 0;
+  -webkit-transition: 0.2s opacity ease-in-out;
+  transition: 0.2s opacity ease-in-out;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+}
+.cid-rShkGpl5d9 .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+  background: transparent !important;
+}
+.cid-rShkGpl5d9 .mbr-gallery-item > div:hover:before {
+  opacity: 0.7 !important;
+}
+.cid-rShkGpl5d9 .mbr-gallery-title {
+  font-size: .9em;
+  position: absolute;
+  display: block;
+  width: 100%;
+  bottom: 0;
+  padding: 1rem;
+  color: #fff;
+  z-index: 2;
+}
+.cid-rShkGpl5d9 .mbr-gallery-title:before {
+  content: " ";
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  position: absolute;
+  background: #554346 !important;
+  opacity: 0.7;
+  -webkit-transition: 0.2s background ease-in-out;
+  transition: 0.2s background ease-in-out;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+}
+.cid-rShkUoLyna {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-rShkUoLyna .card-box {
+  padding: 0 2rem;
+}
+.cid-rShkUoLyna .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-rShkUoLyna .mbr-section-btn a {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+.cid-rShkUoLyna h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-rShkUoLyna p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+}
+.cid-rShkUoLyna .mbr-text {
+  color: #767676;
+}
+.cid-rShkUoLyna .card-wrapper {
+  height: 100%;
+  padding-bottom: 2rem;
+  background: #ffffff;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-rShkUoLyna .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-rShl0xgg0T {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-rShl0xgg0T .pricing {
+  padding: 3.3rem;
+  color: #767676;
+  background-color: #fff;
+}
+@media (max-width: 767px) {
+  .cid-rShl0xgg0T .pricing {
+    padding: 1.5rem;
+  }
+}
+.cid-rShl0xgg0T .plan-header,
+.cid-rShl0xgg0T .plan-body {
+  background-color: #fff;
+}
+.cid-rShl0xgg0T .plan-title {
+  margin-top: 1.4rem;
+}
+.cid-rShl0xgg0T .price-figure {
+  font-weight: 700;
+  color: #232323;
+}
+@media (max-width: 550px) {
+  .cid-rShl0xgg0T .price-figure {
+    font-size: 4.25rem;
+  }
+}
+.cid-rShl0xgg0T .price-value {
+  font-weight: 700;
+  vertical-align: top;
+}
+.cid-rShl0xgg0T hr {
+  margin: 2rem 0;
+}
+.cid-rShl43bAY0 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #f9f9f9;
+}
+.cid-rShl43bAY0 .nav-tabs {
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  border-bottom: none;
+}
+.cid-rShl43bAY0 .nav-tabs .nav-link {
+  box-sizing: border-box;
+  color: #767676;
+  font-style: normal;
+  font-weight: 500;
+  border-radius: 3px;
+  border: 1px solid #767676;
+  padding: 1rem 3rem;
+  margin: 0.4rem .8rem !important;
+  transition: all .3s;
+}
+.cid-rShl43bAY0 .nav-tabs .nav-link:hover {
+  background-color: #149dcc;
+}
+.cid-rShl43bAY0 .nav-tabs .nav-link:focus {
+  box-shadow: none;
+  background-color: #149dcc;
+}
+.cid-rShl43bAY0 .nav-tabs .nav-link.active {
+  font-weight: 500;
+  color: #ffffff;
+  font-style: normal;
+  border: none;
+  background: #149dcc;
+}
+.cid-rShl43bAY0 .nav-tabs .nav-link.active:hover {
+  border: none;
+}
+.cid-rShl43bAY0 .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rShl43bAY0 p {
+  color: #767676;
+}
+.cid-rShl43bAY0 .mbr-figure {
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+  -webkit-align-self: flex-start;
+  align-self: flex-start;
+  padding-right: 4rem;
+}
+.cid-rShl43bAY0 .mbr-text {
+  word-break: break-word;
+}
+@media (max-width: 991px) {
+  .cid-rShl43bAY0 .mbr-figure {
+    padding-right: 0;
+    padding-left: 0;
+    padding-bottom: 2rem;
+  }
+}
+.cid-rShl5lGjeV {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rShl5lGjeV div.b {
+  padding-top: 2rem;
+}
+.cid-rShl5lGjeV .mbr-text {
+  color: #767676;
+  margin: 0;
+  padding-top: 1.5rem;
+}
+.cid-rShl5lGjeV a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-rShl5lGjeV .google-map {
+  height: 25rem;
+  position: relative;
+}
+.cid-rShl5lGjeV .google-map iframe {
+  height: 100%;
+  width: 100%;
+}
+.cid-rShl5lGjeV .google-map [data-state-details] {
+  color: #6b6763;
+  font-family: Montserrat;
+  height: 1.5em;
+  margin-top: -0.75em;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  width: 100%;
+}
+.cid-rShl5lGjeV .google-map[data-state] {
+  background: #e9e5dc;
+}
+.cid-rShl5lGjeV .google-map[data-state="loading"] [data-state-details] {
+  display: none;
+}
+.cid-rShl5lGjeV div.left-block.wrapper {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+@media (max-width: 767px) {
+  .cid-rShl5lGjeV div.left-block.wrapper {
+    padding-bottom: 3rem;
+  }
+}
 .cid-rQvoyXFi2P .navbar {
   padding: .5rem 0;
   background: #333333;
